@@ -1,0 +1,2 @@
+# MOF-CGCNN
+We developed a novel method, MOF-CGCNN, to efficiently and accurately predict the methane the volumetric uptakes at 65 bar for MOFs. Two major modifications were made to the original CGCNN algorithm.The new pooling method mainly depends on the SBUs to describe the local chemical environment around the metal sites. Considering certain adsorbates dominated by cage window sites, we incorporated certain intrinsic structural features, e.g., PLD, LPD, φ, and AV, to the CGCNN algorithm.
